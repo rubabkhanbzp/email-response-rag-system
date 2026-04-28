@@ -104,4 +104,4 @@ The similarity score cutoff (`< 1.0`) is a bit blunt — it occasionally drops v
 
 ---
 
-**Muhammad Afzaal** · [GitHub](https://github.com/mianafzaal297) · mianafzaal097@gmail.com
+**Rubab Tahir** · [GitHub](https://github.com/rubabkhanbzp) · rubabtahirbzp@gmail.com
