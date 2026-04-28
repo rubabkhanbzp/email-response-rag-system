@@ -80,13 +80,13 @@ generate_response(
 ## Sample Outputs
 
 ### Product found
-![Response - product exists](assets/screenshots/sample_response_1.png)
+![Response - product exists](sample_response_1.png)
 
 ### Product not in database
-![Response - product missing](assets/screenshots/sample_response_2.png)
+![Response - product missing](sample_response_2.png)
 
 ### Off-topic email
-![Response - unrelated](assets/screenshots/sample_response_3.png)
+![Response - unrelated](sample_response_3.png)
 
 ---
 
