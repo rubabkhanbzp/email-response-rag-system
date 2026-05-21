@@ -1,0 +1,47 @@
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Environment / secret files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Build / distribution
+dist/
+build/
+eggs/
+*.egg-info/
+.installed.cfg
+
+# Testing / caches
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+logs/
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Misc
+.python-version
+.ropeproject/
+.cache/
